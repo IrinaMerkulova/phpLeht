@@ -9,5 +9,6 @@
         <a href="?leht=lego">Lego joonis</a>
         <a href="?leht=pildid">Pildid</a>
         <a href="?leht=LisamineNaitamine">Loomad</a>
+        <a href="https://merkulova.thkit.ee/puud/puuleht.php">Puud</a>
     </div>
 </nav>
